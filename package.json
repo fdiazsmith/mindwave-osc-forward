@@ -4,7 +4,7 @@
   "description": "simple node app to connect to the mindwave deamon and forward the values to osc",
   "main": "index.js",
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "osc": "^2.4.0"
   },
   "devDependencies": {},
